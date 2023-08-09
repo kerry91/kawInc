@@ -1,4 +1,3 @@
-
 export default function Work() {
   return (
     <div class="Work">
@@ -7,12 +6,12 @@ export default function Work() {
           <img
             class="w-full dark:hidden"
             src="https://github.com/codemarch/Project_Image/blob/main/planing.png?raw=true"
-            alt="Tool image"
+            alt=""
           />
           <img
             class="hidden w-full dark:block"
             src="https://github.com/codemarch/Project_Image/blob/main/planing.png?raw=true"
-            alt="dashboard image"
+            alt=""
           />
           <div class="mt-4 md:mt-0">
             <h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
@@ -24,7 +23,7 @@ export default function Work() {
               as well as discovering new ones is easy with features like Groups.
             </p>
             <a
-              href="#"
+              href="/"
               class="inline-flex items-center rounded-lg bg-blue-700 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
             >
               Get started

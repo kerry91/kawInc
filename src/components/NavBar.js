@@ -28,7 +28,7 @@ function Nav() {
               <a
                 activeclassname="active"
                 class="nav-links"
-                href="#"
+                href="/"
                 rel="noreferrer"
               >
                 Home
@@ -38,7 +38,7 @@ function Nav() {
               <a
                 activeclassname="active"
                 class="nav-links"
-                href="#"
+                href="/"
                 rel="noreferrer"
               >
                 About
@@ -48,7 +48,7 @@ function Nav() {
               <a
                 activeclassname="active"
                 class="nav-links"
-                href="#"
+                href="/"
                 rel="noreferrer"
               >
                 Services
@@ -58,7 +58,7 @@ function Nav() {
               <a
                 activeclassname="active"
                 class="nav-links"
-                href="#"
+                href="/"
                 rel="noreferrer"
               >
                 Contact
